@@ -1,0 +1,22 @@
+{
+  "name": "click-outside-eventt",
+  "version": "1.0.0",
+  "description": "This is a Javascript event that reacts when every click occurs outside an element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadeqMoballeqoleslam/click-outside-event.git"
+  },
+  "keywords": [
+    "event"
+  ],
+  "author": "Sadeq Moballeqoleslam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadeqMoballeqoleslam/click-outside-event/issues"
+  },
+  "homepage": "https://github.com/SadeqMoballeqoleslam/click-outside-event#readme"
+}
